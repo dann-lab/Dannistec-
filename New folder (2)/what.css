@@ -1,0 +1,29 @@
+body{
+    background: white;
+    padding: 0;
+    margin: 0;
+}
+.head{
+    background-color:  rgb(40, 95, 40);
+    color: white;
+    font-size: 40px;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+   margin: 0 auto;
+   
+    
+}
+.i{
+    display: flex;
+    justify-content: space-between;
+}
+.sub{
+    display: flex;
+    font-size: 22px;
+    text-decoration: underline white;
+    justify-content: space-between;
+}
+.b{
+    margin-left: 30px;
+}
